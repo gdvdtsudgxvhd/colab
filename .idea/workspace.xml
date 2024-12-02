@@ -5,6 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ec8160a0-0278-4a1e-a9eb-3bbb833d9293" name="Changes" comment="init">
+      <change afterPath="$PROJECT_DIR$/MAE-for-CIFAR/MAE_for_CIFAR.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MAE-for-CIFAR/MAE简单介绍.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MAE-for-CIFAR/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MAE-for-CIFAR/logs/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MAE-for-CIFAR/mae_pretrain.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MAE-for-CIFAR/model.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MAE-for-CIFAR/pic/mae-cifar10-reconstruction.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MAE-for-CIFAR/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MAE-for-CIFAR/train_classifier.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MAE-for-CIFAR/utils.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/train.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -85,7 +95,7 @@
       <workItem from="1732960966664" duration="89000" />
       <workItem from="1732961060487" duration="447000" />
       <workItem from="1732961523854" duration="5966000" />
-      <workItem from="1732975422337" duration="12852000" />
+      <workItem from="1732975422337" duration="13481000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <option name="closed" value="true" />
@@ -183,7 +193,15 @@
       <option name="project" value="LOCAL" />
       <updated>1732977848840</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="init">
+      <option name="closed" value="true" />
+      <created>1733107878383</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1733107878383</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
