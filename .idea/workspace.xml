@@ -5,30 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ec8160a0-0278-4a1e-a9eb-3bbb833d9293" name="Changes" comment="init">
-      <change afterPath="$PROJECT_DIR$/colab/launch_ssh_cloudflared.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/colab/ui/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/colab/ui/init_git.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/colab/ui/launch_ssh_cloudflared.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/colab/ui/render_html.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/colab/utils/_command.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/colab/utils/expose_env_variable.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/colab/utils/get_tunnel_config.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/colab/utils/installer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/colab_ssh_/.env.example" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/colab_ssh_/authorized_keys" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/colab_ssh_/launch_direct_ssh.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/colab_ssh_/launch_ssh.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/colab_ssh_/set_private_key.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/colab_ssh_/ssh/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/colab_ssh_/ssh/public_key.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/colab_ssh_/utils/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/colab_ssh_/utils/add_folder_to_sys_path.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/colab_ssh_/utils/auth/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/colab_ssh_/utils/auth/ask_user_pass.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/colab_ssh_/utils/logger/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/colab_ssh_/utils/logger/logger.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/colab_ssh_/utils/packages/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/colab_ssh_/utils/show_hint_message.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -123,7 +99,7 @@
       <workItem from="1733130410545" duration="188000" />
       <workItem from="1733130606337" duration="828000" />
       <workItem from="1733131451015" duration="6243000" />
-      <workItem from="1733149180904" duration="7675000" />
+      <workItem from="1733149180904" duration="8812000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <option name="closed" value="true" />
@@ -237,7 +213,15 @@
       <option name="project" value="LOCAL" />
       <updated>1733108252570</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="init">
+      <option name="closed" value="true" />
+      <created>1733192921921</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1733192921921</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
