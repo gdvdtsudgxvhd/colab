@@ -5,12 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ec8160a0-0278-4a1e-a9eb-3bbb833d9293" name="Changes" comment="init">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EfficientSAM/EfficientSAM/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/EfficientSAM/EfficientSAM/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/EfficientSAM/EfficientSAM/notebooks/EfficientSAM_example.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/EfficientSAM/EfficientSAM/notebooks/EfficientSAM_segment_everything_example.ipynb" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,6 +84,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "D:/Kaggle/Coral/mae/engine_finetune.py",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -96,6 +92,7 @@
     "nodejs_package_manager_path": "npm",
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
     "settings.editor.splitter.proportion": "0.27930683",
+    "two.files.diff.last.used.file": "D:/Kaggle/Coral/mae/engine_finetune.py",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -149,7 +146,7 @@
       <workItem from="1733367517469" duration="6712000" />
       <workItem from="1733385141887" duration="280000" />
       <workItem from="1733387110557" duration="4260000" />
-      <workItem from="1733399455252" duration="11642000" />
+      <workItem from="1733399455252" duration="15176000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <option name="closed" value="true" />
@@ -327,7 +324,15 @@
       <option name="project" value="LOCAL" />
       <updated>1733466341278</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="init">
+      <option name="closed" value="true" />
+      <created>1733473442278</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1733473442278</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
